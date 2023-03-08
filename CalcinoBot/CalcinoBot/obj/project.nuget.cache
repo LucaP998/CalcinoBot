@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UI8knEndmcj8/9e5vILLPteMROmz9Few2a7coeklf7qY8rYKsWx3eCGhyS0dQSpa7w585rNxvuTFc7XGvWIZAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucap\\source\\repos\\CalcinoBot\\CalcinoBot\\CalcinoBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucap\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lucap\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
